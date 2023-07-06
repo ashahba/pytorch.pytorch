@@ -210,7 +210,7 @@ scikit-image
 #test that import:
 
 scipy==1.6.3 ; python_version < "3.10"
-scipy==1.8.1 ; python_version == "3.10"
+scipy==1.10.0 ; python_version == "3.10"
 # Pin SciPy because of failing distribution tests (see #60347)
 #Description: scientific python
 #Pinned versions: 1.6.3
